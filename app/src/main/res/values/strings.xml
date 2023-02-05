@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">DA_Connect</string>
+    <string name="sign_in">SIGN IN</string>
+
+    <string name="facebook_app_id">1241857933431715</string>
+    <string name="fb_login_protocol_scheme">fb8238748078</string>
+    <string name="facebook_client_token">bcf976cf2e75dae73de9b837ebb740ac</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="signin">Sign In</string>
+    <string name="or_sign_in_with">or sign in with</string>
+    <string name="googleimg">googleimg</string>
+    <string name="fbimg">fbimg</string>
+    <string name="doesn_t_have_an_account">Doesn\'t have an Account?</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="enter_mobile">Enter Mobile</string>
+    <string name="get_otp">Get OTP</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="loGo">logo</string>
+    <string name="da_connect">DA_Connect</string>
+    <string name="do_you_want_to_create_a_post_click_here">Do you want to Create a Post? Click here!</string>
+    <string name="name">Name</string>
+    <string name="signup">SIGN UP</string>
+    <string name="contact_no">Contact No.</string>
+    <string name="sigup">SIGN UP</string>
+    <string name="sigin">SIGN IN</string>
+    <string name="already_have_an_account">Already have an Account?</string>
+    <string name="e_mail">E-Mail</string>
+
+
+</resources>

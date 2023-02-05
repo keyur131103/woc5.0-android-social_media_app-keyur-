@@ -1,0 +1,34 @@
+{
+  "project_info": {
+    "project_number": "908743992520",
+    "project_id": "daconnect-1674368753266",
+    "storage_bucket": "daconnect-1674368753266.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908743992520:android:7143bb400b3d2ba58df1fd",
+        "android_client_info": {
+          "package_name": "com.example.da_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJVkwuLzbeBBbPL2ET7PiYhsaUUzeXw-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908743992520-f1dlufg4gvo3edi14uhnac2ns47fglaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
